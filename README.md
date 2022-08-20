@@ -3,7 +3,6 @@
 本文内容: 通过在在springboot项目中通过RabbitMQ结合WeBASE-Front的订阅消息队列功能，监听合约中的事件推送
 
 ----------------------------------------
-# 使用说明
 
 # 使用说明
 需提前在本地搭建一条4节点的FISCO-BCOS链 <br>官方文档教程: https://fisco-bcos-documentation.readthedocs.io/zh_CN/latest/docs/installation.html<br>
